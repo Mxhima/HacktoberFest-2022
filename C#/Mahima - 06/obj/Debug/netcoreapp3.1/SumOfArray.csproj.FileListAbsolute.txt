@@ -1,0 +1,14 @@
+C:\Users\Mahima\source\repos\SumOfArray\bin\Debug\netcoreapp3.1\SumOfArray.exe
+C:\Users\Mahima\source\repos\SumOfArray\bin\Debug\netcoreapp3.1\SumOfArray.deps.json
+C:\Users\Mahima\source\repos\SumOfArray\bin\Debug\netcoreapp3.1\SumOfArray.runtimeconfig.json
+C:\Users\Mahima\source\repos\SumOfArray\bin\Debug\netcoreapp3.1\SumOfArray.runtimeconfig.dev.json
+C:\Users\Mahima\source\repos\SumOfArray\bin\Debug\netcoreapp3.1\SumOfArray.dll
+C:\Users\Mahima\source\repos\SumOfArray\bin\Debug\netcoreapp3.1\SumOfArray.pdb
+C:\Users\Mahima\source\repos\SumOfArray\obj\Debug\netcoreapp3.1\SumOfArray.csproj.AssemblyReference.cache
+C:\Users\Mahima\source\repos\SumOfArray\obj\Debug\netcoreapp3.1\SumOfArray.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mahima\source\repos\SumOfArray\obj\Debug\netcoreapp3.1\SumOfArray.AssemblyInfoInputs.cache
+C:\Users\Mahima\source\repos\SumOfArray\obj\Debug\netcoreapp3.1\SumOfArray.AssemblyInfo.cs
+C:\Users\Mahima\source\repos\SumOfArray\obj\Debug\netcoreapp3.1\SumOfArray.csproj.CoreCompileInputs.cache
+C:\Users\Mahima\source\repos\SumOfArray\obj\Debug\netcoreapp3.1\SumOfArray.dll
+C:\Users\Mahima\source\repos\SumOfArray\obj\Debug\netcoreapp3.1\SumOfArray.pdb
+C:\Users\Mahima\source\repos\SumOfArray\obj\Debug\netcoreapp3.1\SumOfArray.genruntimeconfig.cache

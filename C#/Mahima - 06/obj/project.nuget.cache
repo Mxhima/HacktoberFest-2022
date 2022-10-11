@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "CnZbfoV4YcDhMpYjgKd8T/zACqiyoQscaiTXTa7dQ2ibEf5nYhIF7aEHcgkpHcXJ/Npo7l+Y9LSYFKTW07D2gg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Mahima\\source\\repos\\SumOfArray\\SumOfArray.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Mahima\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.24\\microsoft.netcore.app.host.win-x64.3.1.24.nupkg.sha512"
+  ],
+  "logs": []
+}
